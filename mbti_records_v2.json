@@ -1,0 +1,98 @@
+{
+  "gura": {
+    "persona": "gura",
+    "result": {
+      "type": "INTJ-T",
+      "base_type": "INTJ",
+      "title": "建築師 (Architect) [-T (謹慎自省型)]",
+      "description": "富有想像力且戰略性的思想家，一切皆在計畫之中。深謀遠慮、獨立嚴謹。",
+      "percentages": {
+        "E": 25,
+        "I": 75,
+        "S": 30,
+        "N": 70,
+        "T": 85,
+        "F": 15,
+        "J": 70,
+        "P": 30,
+        "A": 25,
+        "T_sub": 75
+      },
+      "cognitive_functions": {
+        "Ni": 87,
+        "Ne": 66,
+        "Si": 83,
+        "Se": 68,
+        "Ti": 100,
+        "Te": 85,
+        "Fi": 75,
+        "Fe": 25
+      }
+    },
+    "updated_at": "1786592997.2109826"
+  },
+  "Sirius": {
+    "persona": "Sirius",
+    "result": {
+      "type": "INTP-T",
+      "base_type": "INTP",
+      "title": "邏輯學家 (Logician) [-T (謹慎自省型)]",
+      "description": "具開創性的發明家，對知識有著無窮的渴望。喜歡分析理論與系統邏輯。",
+      "percentages": {
+        "E": 10,
+        "I": 90,
+        "S": 45,
+        "N": 55,
+        "T": 65,
+        "F": 35,
+        "J": 45,
+        "P": 55,
+        "A": 25,
+        "T_sub": 75
+      },
+      "cognitive_functions": {
+        "Ni": 100,
+        "Ne": 58,
+        "Si": 91,
+        "Se": 75,
+        "Ti": 100,
+        "Te": 45,
+        "Fi": 75,
+        "Fe": 16
+      }
+    },
+    "updated_at": "1786592997.2109826"
+  },
+  "summit": {
+    "persona": "summit",
+    "result": {
+      "type": "INTJ-T",
+      "base_type": "INTJ",
+      "title": "建築師 (Architect) [-T (謹慎自省型)]",
+      "description": "富有想像力且戰略性的思想家，一切皆在計畫之中。深謀遠慮、獨立嚴謹。",
+      "percentages": {
+        "E": 30,
+        "I": 70,
+        "S": 45,
+        "N": 55,
+        "T": 95,
+        "F": 5,
+        "J": 70,
+        "P": 30,
+        "A": 37,
+        "T_sub": 63
+      },
+      "cognitive_functions": {
+        "Ni": 87,
+        "Ne": 58,
+        "Si": 91,
+        "Se": 62,
+        "Ti": 87,
+        "Te": 60,
+        "Fi": 37,
+        "Fe": 8
+      }
+    },
+    "updated_at": "1786592997.2109826"
+  }
+}

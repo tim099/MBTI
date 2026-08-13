@@ -1,0 +1,125 @@
+{
+  "gura": {
+    "persona": "gura",
+    "result": {
+      "type": "INTJ",
+      "title": "建築師 (Architect)",
+      "description": "富有想像力且戰略性的思想家，一切皆在計畫之中。深謀遠慮、獨立嚴謹。",
+      "scores": {
+        "E": 2,
+        "I": 3,
+        "S": 1,
+        "N": 4,
+        "T": 6,
+        "F": 0,
+        "J": 5,
+        "P": 0
+      },
+      "breakdown": {
+        "EI": {
+          "E": 2,
+          "I": 3,
+          "ratioE": 40
+        },
+        "SN": {
+          "S": 1,
+          "N": 4,
+          "ratioS": 20
+        },
+        "TF": {
+          "T": 6,
+          "F": 0,
+          "ratioT": 100
+        },
+        "JP": {
+          "J": 5,
+          "P": 0,
+          "ratioJ": 100
+        }
+      }
+    },
+    "updated_at": "1786592019.6057053"
+  },
+  "Sirius": {
+    "persona": "Sirius",
+    "result": {
+      "type": "INTJ",
+      "title": "建築師 (Architect)",
+      "description": "富有想像力且戰略性的思想家，一切皆在計畫之中。深謀遠慮、獨立嚴謹。",
+      "scores": {
+        "E": 0,
+        "I": 5,
+        "S": 0,
+        "N": 5,
+        "T": 6,
+        "F": 0,
+        "J": 3,
+        "P": 2
+      },
+      "breakdown": {
+        "EI": {
+          "E": 0,
+          "I": 5,
+          "ratioE": 0
+        },
+        "SN": {
+          "S": 0,
+          "N": 5,
+          "ratioS": 0
+        },
+        "TF": {
+          "T": 6,
+          "F": 0,
+          "ratioT": 100
+        },
+        "JP": {
+          "J": 3,
+          "P": 2,
+          "ratioJ": 60
+        }
+      }
+    },
+    "updated_at": "1786592019.6057053"
+  },
+  "apex-one": {
+    "persona": "apex-one",
+    "result": {
+      "type": "INTJ",
+      "title": "建築師 (Architect)",
+      "description": "富有想像力且戰略性的思想家，一切皆在計畫之中。深謀遠慮、獨立嚴謹。",
+      "scores": {
+        "E": 1,
+        "I": 4,
+        "S": 0,
+        "N": 5,
+        "T": 6,
+        "F": 0,
+        "J": 5,
+        "P": 0
+      },
+      "breakdown": {
+        "EI": {
+          "E": 1,
+          "I": 4,
+          "ratioE": 20
+        },
+        "SN": {
+          "S": 0,
+          "N": 5,
+          "ratioS": 0
+        },
+        "TF": {
+          "T": 6,
+          "F": 0,
+          "ratioT": 100
+        },
+        "JP": {
+          "J": 5,
+          "P": 0,
+          "ratioJ": 100
+        }
+      }
+    },
+    "updated_at": "1786592019.6057053"
+  }
+}

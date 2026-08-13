@@ -1,0 +1,194 @@
+[
+  {
+    "id": 1,
+    "dim": "EI",
+    "func": "Fe",
+    "prompt": "在團體社交場合中，我習慣主動帶動氣氛並關注大家的情緒需求。",
+    "weightA": "E",
+    "weightB": "I"
+  },
+  {
+    "id": 2,
+    "dim": "EI",
+    "func": "Se",
+    "prompt": "經歷長時間的社交互動後，比起繼續狂歡，我更需要獨處時間來恢復能量。",
+    "weightA": "I",
+    "weightB": "E"
+  },
+  {
+    "id": 3,
+    "dim": "EI",
+    "func": "Ne",
+    "prompt": "我喜歡邊對話邊激發點子，在與人的思想碰撞中梳理想法。",
+    "weightA": "E",
+    "weightB": "I"
+  },
+  {
+    "id": 4,
+    "dim": "EI",
+    "func": "Si",
+    "prompt": "週末或空閒時，我更傾向享受安靜獨處、專注個人興趣或沉澱休息。",
+    "weightA": "I",
+    "weightB": "E"
+  },
+  {
+    "id": 5,
+    "dim": "EI",
+    "func": "Fe",
+    "prompt": "我傾向於擁有廣泛的社交網絡與多圈子的朋友。",
+    "weightA": "E",
+    "weightB": "I"
+  },
+  {
+    "id": 6,
+    "dim": "SN",
+    "func": "Ni",
+    "prompt": "在面對複雜事物時，我擅長捕捉隱含的概念、未來的趨勢與背後深層的規律。",
+    "weightA": "N",
+    "weightB": "S"
+  },
+  {
+    "id": 7,
+    "dim": "SN",
+    "func": "Si",
+    "prompt": "在處理任務時，我高度重視過往經驗、具體數據事實與確切細節。",
+    "weightA": "S",
+    "weightB": "N"
+  },
+  {
+    "id": 8,
+    "dim": "SN",
+    "func": "Ne",
+    "prompt": "對於抽象的哲學理論、前沿概念與無限的可能性，我會感到無比興奮。",
+    "weightA": "N",
+    "weightB": "S"
+  },
+  {
+    "id": 9,
+    "dim": "SN",
+    "func": "Se",
+    "prompt": "比起空想與抽象推演，我更看重眼前當下的實用性與可操作步驟。",
+    "weightA": "S",
+    "weightB": "N"
+  },
+  {
+    "id": 10,
+    "dim": "SN",
+    "func": "Ni",
+    "prompt": "看書或看電影時，我更被故事背後的世界觀與象徵隱喻所吸引。",
+    "weightA": "N",
+    "weightB": "S"
+  },
+  {
+    "id": 11,
+    "dim": "TF",
+    "func": "Te",
+    "prompt": "做出重大決策時，我會完全置個人情感於度外，純粹依據客觀數據與邏輯自洽。",
+    "weightA": "T",
+    "weightB": "F"
+  },
+  {
+    "id": 12,
+    "dim": "TF",
+    "func": "Fi",
+    "prompt": "當朋友傾訴遭遇時，我的首要反應是給予深刻的情感共鳴與價值關懷。",
+    "weightA": "F",
+    "weightB": "T"
+  },
+  {
+    "id": 13,
+    "dim": "TF",
+    "func": "Ti",
+    "prompt": "對於不符合邏輯自洽、內部定義模糊的主張，我會非常敏感並強烈質疑。",
+    "weightA": "T",
+    "weightB": "F"
+  },
+  {
+    "id": 14,
+    "dim": "TF",
+    "func": "Fe",
+    "prompt": "在團隊中，維持群體和諧與兼顧每個人的感受，比硬拼邏輯對錯更為重要。",
+    "weightA": "F",
+    "weightB": "T"
+  },
+  {
+    "id": 15,
+    "dim": "TF",
+    "func": "Te",
+    "prompt": "我極度看重效率、指標與驗證結果，認為結果才是不不可忽視的本體。",
+    "weightA": "T",
+    "weightB": "F"
+  },
+  {
+    "id": 16,
+    "dim": "JP",
+    "func": "Te",
+    "prompt": "我習慣預先制定詳盡的時程排程，並嚴格按部就班推進落地。",
+    "weightA": "J",
+    "weightB": "P"
+  },
+  {
+    "id": 17,
+    "dim": "JP",
+    "func": "Ne",
+    "prompt": "我喜歡保持日程與方案的彈性，過於僵硬固定反而讓我感到受限束縛。",
+    "weightA": "P",
+    "weightB": "J"
+  },
+  {
+    "id": 18,
+    "dim": "JP",
+    "func": "Si",
+    "prompt": "事物有條不紊、分類明確並快速歸檔落盤，能給我巨大的安全感。",
+    "weightA": "J",
+    "weightB": "P"
+  },
+  {
+    "id": 19,
+    "dim": "JP",
+    "func": "Se",
+    "prompt": "面對突發狀況與最後一刻的期限，我更能激發出靈感與極速應變能力。",
+    "weightA": "P",
+    "weightB": "J"
+  },
+  {
+    "id": 20,
+    "dim": "JP",
+    "func": "Te",
+    "prompt": "對我來說，事情越早明確定案 (Closure) 越好，不喜歡懸而未決的狀態。",
+    "weightA": "J",
+    "weightB": "P"
+  },
+  {
+    "id": 21,
+    "dim": "AT",
+    "func": "Fi",
+    "prompt": "發生失誤或面對批評時，我會長時間反覆深入自省並追求完美改進。",
+    "weightA": "T_sub",
+    "weightB": "A_sub"
+  },
+  {
+    "id": 22,
+    "dim": "AT",
+    "func": "Te",
+    "prompt": "我對自己的決定與能力充滿自信，面對壓力能保持平靜不易產生焦慮過載。",
+    "weightA": "A_sub",
+    "weightB": "T_sub"
+  },
+  {
+    "id": 23,
+    "dim": "AT",
+    "func": "Ti",
+    "prompt": "我常對自己的產出與細節感到不夠完美，並自我要求設立更高的標準防線。",
+    "weightA": "T_sub",
+    "weightB": "A_sub"
+  },
+  {
+    "id": 24,
+    "dim": "AT",
+    "func": "Se",
+    "prompt": "遇到挫折時，我能迅速釋懷並冷靜將注意力轉向未來的下一個目標。",
+    "weightA": "A_sub",
+    "weightB": "T_sub"
+  }
+]

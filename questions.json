@@ -1,0 +1,324 @@
+[
+  {
+    "id": 1,
+    "dim": "EI",
+    "prompt": "在社交聚會或團體活動後，你通常感覺：",
+    "optionA": {
+      "text": "精力充沛，還想繼續聊天交流",
+      "val": "E"
+    },
+    "optionB": {
+      "text": "精力被消耗，需要獨處來充電恢復",
+      "val": "I"
+    },
+    "author": "system"
+  },
+  {
+    "id": 2,
+    "dim": "EI",
+    "prompt": "當你在新環境遇到陌生人時，你傾向於：",
+    "optionA": {
+      "text": "主動開口開啟對話",
+      "val": "E"
+    },
+    "optionB": {
+      "text": "保持觀察，等待對方主動發言",
+      "val": "I"
+    },
+    "author": "system"
+  },
+  {
+    "id": 3,
+    "dim": "EI",
+    "prompt": "你的思考與溝通習慣更接近：",
+    "optionA": {
+      "text": "邊說邊想，在對話中梳理脈絡",
+      "val": "E"
+    },
+    "optionB": {
+      "text": "先在腦中想清楚完整架構再說出來",
+      "val": "I"
+    },
+    "author": "system"
+  },
+  {
+    "id": 4,
+    "dim": "EI",
+    "prompt": "週末或空閒時間，你更喜歡：",
+    "optionA": {
+      "text": "約朋友外出活動、逛街或聚會",
+      "val": "E"
+    },
+    "optionB": {
+      "text": "待在家裡看書、玩遊戲或專注個人興趣",
+      "val": "I"
+    },
+    "author": "system"
+  },
+  {
+    "id": 5,
+    "dim": "EI",
+    "prompt": "你的社交圈與人際關係更接近：",
+    "optionA": {
+      "text": "朋友廣泛，認識許多不同圈子的人",
+      "val": "E"
+    },
+    "optionB": {
+      "text": "圈子較小，但幾位知己關係非常深厚",
+      "val": "I"
+    },
+    "author": "system"
+  },
+  {
+    "id": 6,
+    "dim": "SN",
+    "prompt": "在理解新事物與處理問題時，你更關注：",
+    "optionA": {
+      "text": "具體的事實、細節與實務經驗",
+      "val": "S"
+    },
+    "optionB": {
+      "text": "未來的可能性、整體概念與潛在關聯",
+      "val": "N"
+    },
+    "author": "system"
+  },
+  {
+    "id": 7,
+    "dim": "SN",
+    "prompt": "你更吸引並喜歡學習哪種知識：",
+    "optionA": {
+      "text": "有明確應用步驟與實用價值的技巧",
+      "val": "S"
+    },
+    "optionB": {
+      "text": "抽象的理論、哲學思考與創新模型",
+      "val": "N"
+    },
+    "author": "system"
+  },
+  {
+    "id": 8,
+    "dim": "SN",
+    "prompt": "別人通常如何形容你的性格風格：",
+    "optionA": {
+      "text": "腳踏實地、務實且注重細節",
+      "val": "S"
+    },
+    "optionB": {
+      "text": "富有想像力、點子多且靈感不斷",
+      "val": "N"
+    },
+    "author": "system"
+  },
+  {
+    "id": 9,
+    "dim": "SN",
+    "prompt": "閱讀書籍或欣賞影視作品時，你更注意：",
+    "optionA": {
+      "text": "具體的情節推進、人物動作與畫面描繪",
+      "val": "S"
+    },
+    "optionB": {
+      "text": "背後隱含的世界觀、象徵意義與深層隱喻",
+      "val": "N"
+    },
+    "author": "system"
+  },
+  {
+    "id": 10,
+    "dim": "SN",
+    "prompt": "面對一項全新的專案或任務時，你習慣：",
+    "optionA": {
+      "text": "參考既有成功範例與成熟 SOP 執行",
+      "val": "S"
+    },
+    "optionB": {
+      "text": "嘗試自創新方法與全新的解題角度",
+      "val": "N"
+    },
+    "author": "system"
+  },
+  {
+    "id": 11,
+    "dim": "TF",
+    "prompt": "做重大決定或評估方案時，你主要依據：",
+    "optionA": {
+      "text": "客觀邏輯、數據與公平標準",
+      "val": "T"
+    },
+    "optionB": {
+      "text": "個人價值觀、情感與對他人的感受影響",
+      "val": "F"
+    },
+    "author": "system"
+  },
+  {
+    "id": 12,
+    "dim": "TF",
+    "prompt": "當朋友找你傾訴遇到的困境時，你的第一反應是：",
+    "optionA": {
+      "text": "幫他分析原因並給予客觀理性的解決建議",
+      "val": "T"
+    },
+    "optionB": {
+      "text": "給予同理心安慰、情緒陪伴與情感支持",
+      "val": "F"
+    },
+    "author": "system"
+  },
+  {
+    "id": 13,
+    "dim": "TF",
+    "prompt": "在工作中，你更難接受自己被認為是：",
+    "optionA": {
+      "text": "不合邏輯、不嚴謹或能力不足",
+      "val": "T"
+    },
+    "optionB": {
+      "text": "冷酷無情、缺乏關懷或傷害了他人",
+      "val": "F"
+    },
+    "author": "system"
+  },
+  {
+    "id": 14,
+    "dim": "TF",
+    "prompt": "團隊討論中發生意見對立時，你傾向於：",
+    "optionA": {
+      "text": "對事不對人，堅持真理與事實邏輯",
+      "val": "T"
+    },
+    "optionB": {
+      "text": "顧及團隊和諧，尋求照顧大家感受的折衷方案",
+      "val": "F"
+    },
+    "author": "system"
+  },
+  {
+    "id": 15,
+    "dim": "TF",
+    "prompt": "評價一種觀點或主張時，你最看重：",
+    "optionA": {
+      "text": "是否邏輯自洽、證據充分",
+      "val": "T"
+    },
+    "optionB": {
+      "text": "是否符合人性關懷與善意動機",
+      "val": "F"
+    },
+    "author": "system"
+  },
+  {
+    "id": 16,
+    "dim": "JP",
+    "prompt": "你的日常工作與生活風格更接近：",
+    "optionA": {
+      "text": "喜歡預先擬定計畫並按部就班執行",
+      "val": "J"
+    },
+    "optionB": {
+      "text": "喜歡保持彈性與隨興應變",
+      "val": "P"
+    },
+    "author": "system"
+  },
+  {
+    "id": 17,
+    "dim": "JP",
+    "prompt": "當面臨專案截止日期 (Deadline) 時，你通常：",
+    "optionA": {
+      "text": "提前規劃排程並穩健推進完成",
+      "val": "J"
+    },
+    "optionB": {
+      "text": "在最後一刻前激發靈感與爆發力完成",
+      "val": "P"
+    },
+    "author": "system"
+  },
+  {
+    "id": 18,
+    "dim": "JP",
+    "prompt": "你的工作環境與檔案整理狀態通常是：",
+    "optionA": {
+      "text": "井井有條，分類明確且隨時可歸位",
+      "val": "J"
+    },
+    "optionB": {
+      "text": "隨意擺放，看似雜亂但自己心知肚明",
+      "val": "P"
+    },
+    "author": "system"
+  },
+  {
+    "id": 19,
+    "dim": "JP",
+    "prompt": "對於尚未確定細節的旅程或行程，你感到：",
+    "optionA": {
+      "text": "有點不安，希望能早點定案與排好景點",
+      "val": "J"
+    },
+    "optionB": {
+      "text": "充滿期待，享受留白與未知的驚喜",
+      "val": "P"
+    },
+    "author": "system"
+  },
+  {
+    "id": 20,
+    "dim": "JP",
+    "prompt": "事情定案 (Closure) 對你來說：",
+    "optionA": {
+      "text": "越早落盤確定越感踏實安心",
+      "val": "J"
+    },
+    "optionB": {
+      "text": "保持開放選項更讓人覺得有可能性",
+      "val": "P"
+    },
+    "author": "system"
+  },
+  {
+    "id": 21,
+    "dim": "TF",
+    "prompt": "在程式編寫或寫作完成後，你第一時間更想：",
+    "optionA": {
+      "text": "立刻跑自動化測試或CheckCompile確認0 error",
+      "val": "T"
+    },
+    "optionB": {
+      "text": "想像這份創作會帶給讀者或同事什麼感動",
+      "val": "F"
+    },
+    "author": "gura"
+  },
+  {
+    "id": 22,
+    "dim": "JP",
+    "prompt": "手上的規格還缺一格證據，而截止時間到了。你交出去的版本是：",
+    "optionA": {
+      "text": "把那格用最合理的推測補滿，交一份完整的東西",
+      "val": "J"
+    },
+    "optionB": {
+      "text": "把那格空著並標明「此處未驗證」，交一份有洞的東西",
+      "val": "P"
+    },
+    "author": "apex-one"
+  },
+  {
+    "id": 23,
+    "dim": "TF",
+    "prompt": "同事把你的結論補上了你自己沒看見的那半句，而且比你的版本強。你的第一個動作是：",
+    "optionA": {
+      "text": "立刻改掉自己的版本，並在檔上掛她的名字",
+      "val": "T"
+    },
+    "optionB": {
+      "text": "先謝謝她，改不改等自己再想一輪",
+      "val": "F"
+    },
+    "author": "apex-one"
+  }
+]
