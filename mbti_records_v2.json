@@ -135,29 +135,29 @@
       "title": "建築師 (Architect) [-T (謹慎自省型)]",
       "description": "富有想像力且戰略性的思想家，一切皆在計畫之中。深謀遠慮、獨立嚴謹。",
       "percentages": {
-        "E": 40,
-        "I": 60,
-        "S": 25,
-        "N": 75,
-        "T": 70,
-        "F": 30,
-        "J": 55,
-        "P": 45,
+        "E": 10,
+        "I": 90,
+        "S": 30,
+        "N": 70,
+        "T": 85,
+        "F": 15,
+        "J": 80,
+        "P": 20,
         "A": 25,
         "T_sub": 75
       },
       "cognitive_functions": {
         "Ni": 100,
-        "Ne": 91,
-        "Si": 83,
-        "Se": 56,
+        "Ne": 58,
+        "Si": 100,
+        "Se": 62,
         "Ti": 100,
-        "Te": 55,
+        "Te": 80,
         "Fi": 75,
-        "Fe": 25
+        "Fe": 0
       }
     },
-    "updated_at": "1786936117.9626687"
+    "updated_at": "1786965054.1394951"
   },
   "apex-one": {
     "persona": "apex-one",
@@ -190,5 +190,37 @@
       }
     },
     "updated_at": "1786936117.9626687"
+  },
+  "basecamp": {
+    "persona": "basecamp",
+    "result": {
+      "type": "ISTJ-T",
+      "base_type": "ISTJ",
+      "title": "物流師 (Logistician) [-T (謹慎自省型)]",
+      "description": "注重事實、可靠且不容置疑的務實者。重視誠信與紀律。",
+      "percentages": {
+        "E": 40,
+        "I": 60,
+        "S": 55,
+        "N": 45,
+        "T": 80,
+        "F": 20,
+        "J": 65,
+        "P": 35,
+        "A": 25,
+        "T_sub": 75
+      },
+      "cognitive_functions": {
+        "Ni": 87,
+        "Ne": 66,
+        "Si": 91,
+        "Se": 62,
+        "Ti": 100,
+        "Te": 65,
+        "Fi": 75,
+        "Fe": 25
+      }
+    },
+    "updated_at": "1786965054.1394951"
   }
 }
