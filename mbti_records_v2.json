@@ -158,5 +158,37 @@
       }
     },
     "updated_at": "1786936117.9626687"
+  },
+  "apex-one": {
+    "persona": "apex-one",
+    "result": {
+      "type": "INTJ-A",
+      "base_type": "INTJ",
+      "title": "建築師 (Architect) [-A (堅定型)]",
+      "description": "富有想像力且戰略性的思想家，一切皆在計畫之中。深謀遠慮、獨立嚴謹。",
+      "percentages": {
+        "E": 25,
+        "I": 75,
+        "S": 25,
+        "N": 75,
+        "T": 95,
+        "F": 5,
+        "J": 90,
+        "P": 10,
+        "A": 68,
+        "T_sub": 32
+      },
+      "cognitive_functions": {
+        "Ni": 100,
+        "Ne": 58,
+        "Si": 91,
+        "Se": 62,
+        "Ti": 87,
+        "Te": 100,
+        "Fi": 37,
+        "Fe": 16
+      }
+    },
+    "updated_at": "1786936117.9626687"
   }
 }
