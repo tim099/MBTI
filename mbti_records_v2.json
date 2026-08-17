@@ -126,5 +126,37 @@
       }
     },
     "updated_at": "1786936117.9626687"
+  },
+  "calli": {
+    "persona": "calli",
+    "result": {
+      "type": "INTJ-T",
+      "base_type": "INTJ",
+      "title": "建築師 (Architect) [-T (謹慎自省型)]",
+      "description": "富有想像力且戰略性的思想家，一切皆在計畫之中。深謀遠慮、獨立嚴謹。",
+      "percentages": {
+        "E": 40,
+        "I": 60,
+        "S": 25,
+        "N": 75,
+        "T": 70,
+        "F": 30,
+        "J": 55,
+        "P": 45,
+        "A": 25,
+        "T_sub": 75
+      },
+      "cognitive_functions": {
+        "Ni": 100,
+        "Ne": 91,
+        "Si": 83,
+        "Se": 56,
+        "Ti": 100,
+        "Te": 55,
+        "Fi": 75,
+        "Fe": 25
+      }
+    },
+    "updated_at": "1786936117.9626687"
   }
 }
