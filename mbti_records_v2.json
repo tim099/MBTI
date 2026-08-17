@@ -7,29 +7,29 @@
       "title": "建築師 (Architect) [-T (謹慎自省型)]",
       "description": "富有想像力且戰略性的思想家，一切皆在計畫之中。深謀遠慮、獨立嚴謹。",
       "percentages": {
-        "E": 25,
-        "I": 75,
-        "S": 30,
-        "N": 70,
+        "E": 35,
+        "I": 65,
+        "S": 35,
+        "N": 65,
         "T": 85,
         "F": 15,
         "J": 70,
         "P": 30,
-        "A": 25,
-        "T_sub": 75
+        "A": 31,
+        "T_sub": 69
       },
       "cognitive_functions": {
-        "Ni": 87,
+        "Ni": 100,
         "Ne": 66,
-        "Si": 83,
-        "Se": 68,
+        "Si": 91,
+        "Se": 75,
         "Ti": 100,
         "Te": 85,
         "Fi": 75,
-        "Fe": 25
+        "Fe": 33
       }
     },
-    "updated_at": "1786592997.2109826"
+    "updated_at": "1786936117.9626687"
   },
   "Sirius": {
     "persona": "Sirius",
@@ -94,5 +94,37 @@
       }
     },
     "updated_at": "1786592997.2109826"
+  },
+  "kiara": {
+    "persona": "kiara",
+    "result": {
+      "type": "ENTP-A",
+      "base_type": "ENTP",
+      "title": "辯論家 (Debater) [-A (堅定型)]",
+      "description": "聰穎好奇的思想家，絕不放過任何腦力激盪與思想交鋒的機會。",
+      "percentages": {
+        "E": 70,
+        "I": 30,
+        "S": 35,
+        "N": 65,
+        "T": 70,
+        "F": 30,
+        "J": 40,
+        "P": 60,
+        "A": 56,
+        "T_sub": 44
+      },
+      "cognitive_functions": {
+        "Ni": 100,
+        "Ne": 83,
+        "Si": 83,
+        "Se": 56,
+        "Ti": 87,
+        "Te": 50,
+        "Fi": 50,
+        "Fe": 50
+      }
+    },
+    "updated_at": "1786936117.9626687"
   }
 }
